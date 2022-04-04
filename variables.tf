@@ -20,6 +20,6 @@ variable "kubernetes_cluster_name" {
   type = string
 }
 
-variable "eks_node_group_id" {
+variable "eks_nodegroup_id" {
   type = string
 }
